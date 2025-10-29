@@ -1,3 +1,18 @@
+body {
+  background-color: #f4d58d;
+  background-image:
+    radial-gradient(circle at 20px 20px, #851744 10%, transparent 11%),
+    radial-gradient(circle at 60px 40px, #5c1410 10%, transparent 11%),
+    radial-gradient(circle at 100px 80px, #530b50 10%, transparent 11%),
+    radial-gradient(circle at 25px 70px, #681212 10%, transparent 11%);
+  background-size: 120px 120px;
+  background-repeat: repeat;
+  color:#3b0907;
+  max-width:1920px;
+  margin-inline:auto;
+  font-family: 'Roboto', sans-serif;
+}
+
 *,
 *::before,
 *::after {
@@ -6,8 +21,8 @@
   padding:0;
 }
 
-.name{
+.name{ 
     text-transform: uppercase;
     font-size: 24px;
     font-family:"Teko",sans-serif;
-}
+}                                   
