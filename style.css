@@ -60,6 +60,37 @@ header{
   text-transform:uppercase;
   text-align:center;
 }
+.info-content-wrapper{
+  padding:0 40px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:40px;
+}
+
+
+.info-text{
+  width:50%;
+}
+
+.info-heading{
+  font-family: 'Teko', sans-serif;
+  text-transform:uppercase;
+  font-size:35px;
+  color:#000000;
+  margin-bottom: 20px;
+}
+
+.info-paragraph{
+  font-size:20px;
+  line-height:1.0;
+}
+
+.info-sub-heading{
+   font-size:10px;
+   font-family: 'Teko', sans-serif;
+}
+
 
 
 
