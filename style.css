@@ -8,17 +8,27 @@
 } 
 body {
   background-color: #f4d58d;
-  background-image:
+  /*background-image:
     radial-gradient(circle at 20px 20px, #aa406c 10%, transparent 11%),
     radial-gradient(circle at 60px 40px, #a94a45 10%, transparent 11%),
     radial-gradient(circle at 100px 80px, #9b3e97 10%, transparent 11%),
     radial-gradient(circle at 25px 70px, #963838 10%, transparent 11%);
   background-size: 120px 120px;
-  background-repeat: repeat;
-  color:#3b0907;
+  background-repeat: repeat;*/
+  color:#3b0907; 
   max-width:1920px;
   margin-inline:auto;
   font-family: 'Roboto', sans-serif;
+}
+
+#leopardCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;         
+  opacity: 0.4;        
+  width: 100vw;
+  height: 100vh;
 }
 
 
@@ -44,15 +54,12 @@ header{
 
 
 .opening-text{
-  width:50%;
+  width:50%; 
   font-size:64px;
   font-family: 'Teko', sans-serif;
   text-transform:uppercase;
   text-align:center;
 }
-
-
-
 
 
 
