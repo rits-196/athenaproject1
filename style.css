@@ -82,12 +82,13 @@ header{
 }
 
 .info-paragraph{
+  font-family: 'Teko', sans-serif;
   font-size:20px;
   line-height:1.0;
 }
 
 .info-sub-heading{
-   font-size:10px;
+   font-size:30px;
    font-family: 'Teko', sans-serif;
 }
 
