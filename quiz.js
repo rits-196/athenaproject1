@@ -243,8 +243,8 @@ function handleNextButton(){
 
 function hideGif() {
   const gifContainer = document.getElementById("gif-container");
-  gifContainer.innerHTML = ""; // Clear GIF content
-  gifContainer.style.display = "none"; // Hide the GIF container
+  gifContainer.innerHTML = ""; 
+  gifContainer.style.display = "none"; 
 }
 
 
