@@ -32,7 +32,7 @@ body {
     font-family:"Teko",sans-serif;
 }    
 header{
-  display:flex;
+  display:flex; 
   justify-content:space-between;
   padding:20px;
 }

@@ -223,10 +223,6 @@ function showScore(){
 }
 
 
-
-
-
-
 function handleNextButton(){
   hideGif(); 
   currentQuestionIndex++;
@@ -237,8 +233,8 @@ function handleNextButton(){
   }
 }
 
-
-
+      
+  
 
 
 function hideGif() {
@@ -267,3 +263,4 @@ startQuiz();
 
 
 
+                                  

@@ -37,7 +37,7 @@ body{
   }
 
 .app{
-  background-color: #490f0b;
+  background-color: #3b0907;
   width:80%;
   max-width:600px;
   margin:60px auto 0;
@@ -98,9 +98,8 @@ body{
 }
 
 .incorrect{
-  background-color:#FF6347;
+  background-color:#8f2c1b;
 }
-
 .back-to-home-box{
   width:90%;
   max-width:600px;
@@ -119,8 +118,9 @@ body{
   
   .logo-wrapper{
     margin-top:20px;
-  }
+  }             
   
   .app{
     margin-top:20px;
-  }
+  }             
+ 
